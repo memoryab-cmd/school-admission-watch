@@ -1,0 +1,52 @@
+[
+  {
+    "id": "yasuda",
+    "name_ja": "安田学園中学校・高等学校",
+    "pages": [
+      "https://www.yasuda.ed.jp/admission/adm_j/",
+      "https://www.yasuda.ed.jp/news/"
+    ],
+    "notes": "adm_j is the 中学入試募集要項 page itself; news/ is the general news list, watch for 中学入試 related posts."
+  },
+  {
+    "id": "nichidai1",
+    "name_ja": "日本大学第一中学校・高等学校",
+    "pages": [
+      "https://nichidai1-edu.note.jp/p/home"
+    ],
+    "notes": "This school migrated its whole site to a note.jp blog. There is no separate admissions page or news list - the home feed itself is the blog. Do NOT hash the whole page as a generic change signal (it changes for unrelated blog posts too). Only treat it as a real change if a NEW post specifically about 中学入試 / 募集要項 / 出願 / 入試日程 appears that wasn't seen in the last run's recorded post titles/links."
+  },
+  {
+    "id": "edojo",
+    "name_ja": "江戸川女子中学校・高等学校",
+    "pages": [
+      "https://www.edojo.jp/guidelines",
+      "https://www.edojo.jp/junior/notice"
+    ]
+  },
+  {
+    "id": "ueno",
+    "name_ja": "上野学園中学校・高等学校",
+    "pages": [
+      "https://www.uenogakuen.ed.jp/exam/junior/detail.html",
+      "https://www.uenogakuen.ed.jp/news/"
+    ]
+  },
+  {
+    "id": "dokkyo-saitama",
+    "name_ja": "独協埼玉中学校・高等学校",
+    "pages": [
+      "https://www.dokkyo-saitama.ed.jp/admissions/junior/",
+      "https://www.dokkyo-saitama.ed.jp/news/"
+    ]
+  },
+  {
+    "id": "kaichi-nihonbashi",
+    "name_ja": "開智日本橋学園中学校・高等学校",
+    "pages": [
+      "https://www.kng.ed.jp/admission/entrance-examination/",
+      "https://kng.ed.jp/topics/"
+    ],
+    "notes": "As of last check this page still showed 2026年度 info with 2027年度 pending publication - this is exactly the kind of change to catch."
+  }
+]
